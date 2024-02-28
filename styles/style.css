@@ -29,7 +29,6 @@
   border-bottom: 1px solid #000000;
   font-size: 18px;
   line-height: 21px;
-
 }
 
 .header__link_active {
@@ -76,7 +75,7 @@
   position: absolute;
   z-index: 1;
   opacity: 60%;
-  inset:0;
+  inset: 0;
   background-color: #000000;
 }
 
@@ -90,7 +89,7 @@
   max-width: 1000px;
   min-height: 355px;
   margin: 165px auto 0;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: 700;
   font-size: 100px;
   text-transform: uppercase;
@@ -147,7 +146,7 @@
   text-align: center;
   text-transform: uppercase;
   background-color: transparent;
-  border: 1px solid #FFFFFF;
+  border: 1px solid #ffffff;
   color: #fff;
 }
 
@@ -193,7 +192,7 @@
   height: 100%;
   background-position: center;
   background-size: cover;
-} 
+}
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
