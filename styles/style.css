@@ -62,8 +62,7 @@
 }
 
 .cover {
-  background-image: url(../images/cover.jpg);
-  background-size: cover;
+  background: url(../images/cover.jpg) no-repeat center / cover;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
